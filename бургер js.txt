@@ -1,0 +1,5 @@
+на 39 минуте макета люкс трейдер объ€снеие как надо делать бургер
+let icon = document.querySelector('form');
+icon.addEventListener("click", function(e){
+  
+});
